@@ -38,8 +38,10 @@
     line-height: 1.56;
     text-align: center;
 }
-#map {
-    width: 100%;
-    height: 100%;
-    margin: 0 auto;
+.map {
+    display: inline;
+    text-align: center;
+}
+.mapText {
+    text-align: center;
 }
