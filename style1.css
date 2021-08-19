@@ -1,8 +1,24 @@
 .pageTitle {
-    font-family: Playfair, Display, serif;
     font-size: 54pt;
     font-weight: 700;
     text-align: center;
     letter-spacing: -0.8px;
     line-height: 1.11;
+}
+.pageSubtext {
+    font-size: 9pt;
+    line-height: 1.2;
+    display: block;
+    text-align: center;
+}
+.fancyText {
+    font-family: 'Playfair', 'Display', serif;
+}
+.imageText {
+    display: block;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12;
+    font-weight: 400;
+    margin-top: 15px;
 }
