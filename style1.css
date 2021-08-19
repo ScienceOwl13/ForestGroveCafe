@@ -22,3 +22,13 @@
     font-weight: 400;
     margin-top: 15px;
 }
+#carrot_soup {
+    box-sizing: border-box;
+    border: 0;
+    display: block;
+    width: 100%;
+    padding-left: 48;
+    padding-right: 48;
+    margin-left: auto;
+    margin-right: auto;
+}
