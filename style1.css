@@ -38,9 +38,9 @@
     line-height: 1.56;
     text-align: center;
 }
-.map {
-    display: inline;
-    text-align: center;
+iframe.map {
+    display: block;
+    margin: 0 auto;
 }
 .mapText {
     text-align: center;
