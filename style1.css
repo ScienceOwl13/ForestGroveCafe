@@ -76,3 +76,15 @@ footer {
     text-align: center;
     padding-top: 100px;
 }
+.titleBackground {
+    background-image: url(images/forest_cafe.jpg);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
+/* .tint {
+    background-color: rgba(42, 74, 70, 1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
